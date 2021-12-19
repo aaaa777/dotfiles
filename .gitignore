@@ -7,3 +7,4 @@
 # whitelist files
 
 !/.gitignore
+!/.bash_profile
