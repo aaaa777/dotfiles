@@ -1,0 +1,9 @@
+# dotfiles gitignore files
+# decline all
+
+/*
+/.*
+
+# whitelist files
+
+!/.gitignore
