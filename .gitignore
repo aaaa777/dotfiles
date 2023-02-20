@@ -9,3 +9,7 @@
 !/.gitignore
 !/.bash_profile
 !./.bin
+!/authorized_keys
+!/keygen.sh
+!/.gitconfig
+
