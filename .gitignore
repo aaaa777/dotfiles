@@ -13,4 +13,4 @@
 !/authorized_keys
 !/keygen.sh
 !/.gitconfig
-
+!/.bash_aliases
