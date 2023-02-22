@@ -10,6 +10,12 @@ alias cdp='cd -'
 # ls
 alias lh='ls -lha'
 
+# git
+alias ga='git add'
+alias gc='git commit'
+alias gp='git push'
+alias gaa='git add --all'
+
 # apt
 alias apt-install="$SUDO apt update && $SUDO apt install -y"
 alias apt-s="$SUDO apt-cache search"
