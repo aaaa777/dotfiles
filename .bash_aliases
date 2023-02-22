@@ -23,5 +23,5 @@ alias dp="$SUDO docker ps"
 
 # docker-compose
 alias dcu="$SUDO docker-compose up"
-alias dcb="$SUDO docker-compose up --build"
-alias dcd="$SUDO docker-compose down"
+alias dcub="$SUDO docker-compose up --build"
+alias dcud="$SUDO docker-compose up -d"
