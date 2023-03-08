@@ -8,6 +8,9 @@ else
   cp -p .bash_aliases ~/
 fi
 
+# configure git
+git config --global core.autocrlf input
+
 # install github-cli
 echo "checking github-cli"
 if [ -z "$(which gh)" ]; then
