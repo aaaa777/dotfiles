@@ -10,6 +10,8 @@ fi
 
 # configure git
 git config --global core.autocrlf input
+git config --global user.name aaaa777
+git config --global user.email aaaa777@users.noreply.github.com
 
 # install github-cli
 echo "checking github-cli"
