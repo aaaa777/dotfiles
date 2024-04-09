@@ -7,11 +7,8 @@
 # whitelist files
 
 !/.gitignore
-!/.bash_profile
-!/.bashrc
-!./.bin
-!/authorized_keys
 !/keygen.sh
-!/.gitconfig
-!/.bash_aliases
-!/setup.sh
+!/windows
+!/ssh
+!/linux
+!/git

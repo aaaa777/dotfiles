@@ -1,0 +1,9 @@
+*
+.*
+
+# whitelist
+
+!*.pub
+!authorized_keys
+!.gitignore
+!keygen.sh

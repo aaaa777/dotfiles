@@ -1,0 +1,9 @@
+*
+.*
+
+# whitelist
+
+!.gitignore
+!.bash_aliases
+!.bashrc
+!.bash_profile
