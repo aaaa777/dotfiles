@@ -1,0 +1,70 @@
+# winget package list
+# lines start with "#" and "//" are ignored
+
+# Game/Game Utils
+Nvidia.GeForceNow
+Valve.Steam
+
+# Communication
+SlackTechnologies.Slack
+Discord.Discord.Canary
+Discord.Discord
+LINE.LINE
+Cisco.WebexTeams
+
+# Painting
+KDE.Krita
+
+# Office Tools
+TheDocumentFoundation.LibreOffice
+
+# Computer Utils
+CrystalDewWorld.CrystalDiskInfo
+Logitech.OptionsPlus
+Nvidia.GeForceExperience
+valinet.ExplorerPatcher
+WinSCP.WinSCP
+
+# Java
+Oracle.JavaRuntimeEnvironment
+AdoptOpenJDK.OpenJDK.17
+
+# JavaScript
+OpenJS.NodeJS
+
+# Ruby
+RubyInstallerTeam.RubyWithDevKit.3.0
+RubyInstallerTeam.RubyWithDevKit.3.1
+RubyInstallerTeam.RubyWithDevKit.3.2
+
+# .NET
+Microsoft.DotNet.SDK.7
+Microsoft.DotNet.SDK.6
+Microsoft.DotNet.SDK.5
+
+# Development Environment/Utils
+BlueStack.BlueStacks
+Oracle.VirtualBox
+Git.Git
+Chromium.ChromeDriver
+PuTTY.PuTTY
+ArduinoSA.IDE.stable
+VaclavSlavik.Poedit
+Google.AndroidStudio
+JRSoftware.InnoSetup
+
+# Debug/Visualization Tools
+PortSwigger.BurpSuite.Community
+WiresharkFoundation.Wireshark
+DaiyuuNobori.Win10Pcap
+AntibodySoftware.WizTree
+
+# WindowsADK
+Microsoft.WindowsADK
+Microsoft.ADKPEAddon
+Microsoft.WindowsWDK
+
+# Browser
+Google.Chrome
+Brave.Brave
+PushPlayLabs.Sidekick
