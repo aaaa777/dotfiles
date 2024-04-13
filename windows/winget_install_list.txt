@@ -1,9 +1,9 @@
 # winget package list
 # lines start with "#" and "//" are ignored
 
-# Game/Game Utils
-Nvidia.GeForceNow
-Valve.Steam
+
+
+##### Work #####
 
 # Communication
 SlackTechnologies.Slack
@@ -15,23 +15,67 @@ Cisco.WebexTeams
 # Painting Tools
 KDE.Krita
 
+# Capture Tools
+NickeManarin.ScreenToGif
+
 # Office Tools
 TheDocumentFoundation.LibreOffice
 
-# MiddleWare/Driver
+# PDF viewer
+SumatraPDF.SumatraPDF
+
+# Browser
+Google.Chrome
+Brave.Brave
+PushPlayLabs.Sidekick
+
+# Others
 Logitech.OptionsPlus
 Nvidia.GeForceExperience
 valinet.ExplorerPatcher
 
-# Client Tools
+
+
+##### Game #####
+
+# Game Utils
+Nvidia.GeForceNow
+Valve.Steam
+
+
+
+##### Development/Tools #####
+
+# Local Client Tools
 WinSCP.WinSCP
 PuTTY.PuTTY
 
-# Capture Tools
-NickeManarin.ScreenToGif
+# IDE/Emulator
+BlueStack.BlueStacks
+Oracle.VirtualBox
+ArduinoSA.IDE.stable
+VaclavSlavik.Poedit
+Google.AndroidStudio
+JRSoftware.InnoSetup
 
-# PDF viewer
-SumatraPDF.SumatraPDF
+# Debug/Visualization Tools
+PortSwigger.BurpSuite.Community
+WiresharkFoundation.Wireshark
+DaiyuuNobori.Win10Pcap
+AntibodySoftware.WizTree
+CrystalDewWorld.CrystalDiskInfo
+
+# WindowsADK
+Microsoft.WindowsADK
+Microsoft.ADKPEAddon
+Microsoft.WindowsWDK
+
+
+
+##### Development/Environment #####
+
+# Command Utils
+Git.Git
 
 # Java
 Oracle.JavaRuntimeEnvironment
@@ -50,34 +94,6 @@ Microsoft.DotNet.SDK.7
 Microsoft.DotNet.SDK.6
 Microsoft.DotNet.SDK.5
 
-# Command Utils
-Git.Git
-
-# Development Environment/Utils
-BlueStack.BlueStacks
-Oracle.VirtualBox
-ArduinoSA.IDE.stable
-VaclavSlavik.Poedit
-Google.AndroidStudio
-JRSoftware.InnoSetup
-
 # Other Libraries
 Chromium.ChromeDriver
 WinFsp.WinFsp
-
-# Debug/Visualization Tools
-PortSwigger.BurpSuite.Community
-WiresharkFoundation.Wireshark
-DaiyuuNobori.Win10Pcap
-AntibodySoftware.WizTree
-CrystalDewWorld.CrystalDiskInfo
-
-# WindowsADK
-Microsoft.WindowsADK
-Microsoft.ADKPEAddon
-Microsoft.WindowsWDK
-
-# Browser
-Google.Chrome
-Brave.Brave
-PushPlayLabs.Sidekick
