@@ -29,10 +29,15 @@ Google.Chrome
 Brave.Brave
 PushPlayLabs.Sidekick
 
+# File Manager
+voidtools.Everything
+DigitalScholar.Zotero
+
 # Others
 Logitech.OptionsPlus
 Nvidia.GeForceExperience
 valinet.ExplorerPatcher
+Microsoft.PowerToys
 
 
 
