@@ -38,7 +38,9 @@ Logitech.OptionsPlus
 Nvidia.GeForceExperience
 valinet.ExplorerPatcher
 Microsoft.PowerToys
-
+Gyan.FFmpeg
+Mp3tag.Mp3tag
+Highresolution.X-MouseButtonControl
 
 
 ##### Game #####
