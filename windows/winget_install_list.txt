@@ -28,6 +28,8 @@ SumatraPDF.SumatraPDF
 Google.Chrome
 Brave.Brave
 PushPlayLabs.Sidekick
+PortSwigger.BurpSuite.Community
+VivaldiTechnologies.Vivaldi
 
 # File Manager
 voidtools.Everything
