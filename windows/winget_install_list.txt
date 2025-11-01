@@ -14,6 +14,7 @@ Cisco.WebexTeams
 
 # Painting Tools
 KDE.Krita
+JGraph.Draw
 
 # Capture Tools
 NickeManarin.ScreenToGif
@@ -43,6 +44,7 @@ Microsoft.PowerToys
 Gyan.FFmpeg
 Mp3tag.Mp3tag
 Highresolution.X-MouseButtonControl
+Mega.MEGASync
 
 
 ##### Game #####
@@ -73,12 +75,15 @@ WiresharkFoundation.Wireshark
 DaiyuuNobori.Win10Pcap
 AntibodySoftware.WizTree
 CrystalDewWorld.CrystalDiskInfo
+marha.VcXsrv
 
 # WindowsADK
 Microsoft.WindowsADK
 Microsoft.ADKPEAddon
 Microsoft.WindowsWDK
 
+# Hardware
+KiCad.KiCad
 
 
 ##### Development/Environment #####
